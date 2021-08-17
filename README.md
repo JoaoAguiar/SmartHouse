@@ -9,7 +9,8 @@ Alem deste sistema de automatização das luzes, vamos também utilizar uma apli
 
 A partir de uma hora predefinida, na aplicação, ou num certo nível de luminosidade, pretende-se que as luzes da casa se liguem/desliguem automaticamente.
 
-IMAGEM
+## Funcionamento das SmarthHouse
+![diagrama](https://user-images.githubusercontent.com/47954209/129787985-d28ee3b2-032f-4e1b-bc60-cf08a1cd3e80.png)
 
 ## Materiais usados
 * Arduino
